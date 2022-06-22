@@ -34,7 +34,7 @@ pengurangan nilai secara kolektif.
 - Item yang dijual memiliki kategori(maksimum 5)
 - Maksimum postingan user jualan adalah 4
 
-## Minimum Requirement for Back End
+### Minimum Requirement for Back End
 
 | Objectives |  |
 | ------ | ------ |
@@ -47,7 +47,7 @@ pengurangan nilai secara kolektif.
 | GIT Workflow | Develop/Staging : Staging and Testing |
 | Output Deliverable | API yang bisa diconsume oleh Front End |
 
-## Minimum Requirement for Front End
+### Minimum Requirement for Front End
 
 | Objectives |  |
 | ------ | ------ |

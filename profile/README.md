@@ -34,6 +34,19 @@ pengurangan nilai secara kolektif.
 - Item yang dijual memiliki kategori(maksimum 5)
 - Maksimum postingan user jualan adalah 4
 
+## Minimum Requirement for Back End
+
+| Objectives |  |
+| ------ | ------ |
+| Auth | User |
+| CRUD | User, Produk (sesuai fitur minimum), Transaksi |
+| Design Pattern / Architectural | Basic MVC, Monolith two layers (back end layer and front end layer) |
+| Searching Filtering | Searching Pagination and Sorting |
+| Role | Buyer, Seller |
+| Deployment | Heroku (Staging and Production), We have two main branch master and develop/staging, master : Production only |
+| GIT Workflow | Develop/Staging : Staging and Testing |
+| Output Deliverable | API yang bisa diconsume oleh Front End |
+
 ## Minimum Requirement for Front End
 
 | Objectives |  |
@@ -45,6 +58,17 @@ pengurangan nilai secara kolektif.
 | Deployment | Heroku (Staging), Vercel (Production) |
 | Testing | JEST + React Testing Library |
 | Output Deliverable | Live web yang dapat diakses umum. |
+
+### Additional Features (Back End)
+Buat bikin final project yang bagus, kamu dan member tim lain bisa lho
+menambahkan fitur tambahan yang dapat mendukung proses pembuatan
+final project ini.
+
+Jadi, kamu dan tim nggak melulu pakai fitur yang itu-itu aja.
+
+Berikut adalah fitur yang bisa kamu gunakan:
+- Registrasi oauth gmail
+- Push notification menggunakan Firebase
 
 ### Additional Features (Front End)
 Kamu dan member tim lainnya pasti ingin dong punya nilai tambah yang

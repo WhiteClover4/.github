@@ -100,7 +100,7 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/Danz29"><img src="https://avatars.githubusercontent.com/u/99729025?v=4" width="100px;" alt=""/><br /><sub><b>Fardan Fauzi</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/alfirmanpahlepi"><img src="https://avatars.githubusercontent.com/u/78687274?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Alfirman Pahlepi</b></sub></a><br /><p style="font-size:10px">Frontend Team Leader</p></td>
+    <td align="center"><a href="https://github.com/alfirmanpahlepi"><img src="https://avatars.githubusercontent.com/u/78687274?v=4" width="100px;" alt=""/><br /><sub><b>Alfirman Pahlepi</b></sub></a><br /><p style="font-size:10px">Frontend Team Leader</p></td>
     <td align="center"><a href="https://github.com/syahriful"><img src="https://avatars.githubusercontent.com/u/46914429?v=4" width="100px;" alt=""/><br /><sub><b>Syahriful Hikmatullah</b></sub></a><br /><p style="font-size:10px">Frontend  Developer</p></td>
     <td align="center"><a href="https://github.com/Sittiarifah"><img src="https://avatars.githubusercontent.com/u/99728741?v=4" width="100px;" alt=""/><br /><sub><b>Sitti Arifah</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
   </tr>
